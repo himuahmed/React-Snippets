@@ -1,6 +1,6 @@
 import Axios from 'axios';
 
-const KEY = 'AIzaSyDo7h71LeX-y1ozdzi7kW7xhiMkHGzvw0I';
+const KEY = 'google key';
 
 
 export default Axios.create({
